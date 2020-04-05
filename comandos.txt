@@ -1,0 +1,7 @@
+ 
+ CONECTAR COM RAILS SERVER
+ adb -s RX8M70W2KJH reverse tcp:8081 tcp:8081
+ adb reverse tcp:3000 tcp:3000
+
+ DEVICES
+ A10 Barreira -> "RX8M70W2KJH"
